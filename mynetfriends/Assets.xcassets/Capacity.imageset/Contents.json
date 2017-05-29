@@ -2,17 +2,16 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "Capacity.png",
+      "filename" : "Capacity@2x.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "Capacity@2x.png",
+      "filename" : "Capacity@3x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "Capacity@3x.png",
       "scale" : "3x"
     }
   ],
